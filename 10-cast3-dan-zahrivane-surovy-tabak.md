@@ -580,6 +580,13 @@ Zákon stanoví tři odlišné limity pro osobní spotřebu, odpovídající odl
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 202/2022 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720433) — 11. 4. 2024
+  > „Jedná se o neobvyklou daň v tom smyslu, že jejím účelem není ani tak zdanit surový tabák jako spíše zabránit obcházení daně z tabákových výrobků (to je zřejmé jak z důvodové zprávy, tak z konstrukce samotného zákona…). Shora uvedené lze tedy shrnout tak, že stát se snaží primárně danit samotné tabákové výrobky. Na ty daň ze surového tabáku dopadat nemá. Má však bránit tomu, aby surový tabák byl používán k obcházení daně z tabákových výrobků. […] Plátcovství daně a vznik daňové povinnosti ze surového tabáku jsou v souladu s popsaným účelem zákona definovány poměrně široce, a to ve dvou alternativách…"
+- *NSS* [6 Afs 164/2024 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/725778) — 17. 10. 2024
+  > „…účelem zákonné konstrukce plátce daně ze surového tabáku je zabránění obcházení daně z tabákových výrobků a řešení složité důkazní situace. Z judikatury dovodil, že pro určení osoby ve smyslu § 131a odst. 1 písm. b) zákona č. 353/2003 Sb., o spotřebních daních, je třeba, aby celní orgány zjistily osobu, která měla k surovému tabáku nejužší vztah"
+
 #### Vymezení plátce — dvě větve plátcovství (odst. 1)
 
 Zákon definuje plátce daně ze surového tabáku zcela odlišně od ostatních spotřebních daní. Plátcovství nevzniká výrobou ani uvedením do volného daňového oběhu, nýbrž buď **neoprávněným použitím** suroviny (větev a), nebo **neoprávněnou držbou** suroviny (větev b).

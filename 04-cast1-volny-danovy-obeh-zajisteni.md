@@ -299,6 +299,13 @@ Správce daně náhradní doklad přezkoumá; pokud neobsahuje vady, předá jej
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 48/2015 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/634941) — 3. 6. 2015
+  > „Unijní harmonizace spotřebních daní reagovala na zánik hraničních kontrol mezi členskými státy EU. Povinnost spotřební daň přiznat a zaplatit tak zásadně vzniká až ve státě spotřeby zboží. Krom dalších aspektů unijní právní úprava tedy musela upravit režim, který by umožňoval obchod se zbožím zatíženým spotřební daní v případech, kdy ještě nevznikla povinnost daň přiznat a zaplatit, a současně by bránil riziku daňových úniků. (…) Text, účel i struktura směrnice, a odvozeně tím pádem i zákona o spotřebních daních, zjevně zavádí objektivní odpovědnost osoby, která poskytla zajištění daně podle čl. 15 odst. 3 směrnice, za veškeré ztráty vybraných výrobků nehledě na zavinění, přičemž jedinou výjimku představují případy uvedené v čl. 14 odst. 1 směrnice"
+- *NSS* [9 Afs 218/2019 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/652558) — 1. 11. 2019
+  > „Takový přístup však izoluje jedinou skutečnost, tedy nedoručení vybraných výrobků do Rakouska, od celého průběhu dopravy, a při zaměření pouze na § 28 odst. 1 zákona o spotřebních daních odhlíží od výše uvedeného smyslu zavedení možnosti dopravy vybraných výrobků v režimu podmíněného osvobození od daně a také od souvisejícího § 28 odst. 4 téhož zákona: Zjistí-li se, že k porušení režimu podmíněného osvobození od daně během dopravy došlo na daňovém území České republiky, povinnost daň přiznat a zaplatit vzniká na daňovém území České republiky"
+
 #### Systematika § 28 — klíčové sankční-hmotněprávní ustanovení
 
 Paragraf 28 je ústřední normou zakládající daňovou povinnost při selhání podmíněného osvobození za dopravy. Provádí čl. 9 a čl. 10 směrnice 2020/262, podle nichž daňová povinnost vzniká ve členském státě, kde k porušení (irregularity) podmíněného osvobození došlo.
@@ -677,6 +684,11 @@ Zákon zavádí hospodárný mechanismus: uvolněné zajištění na depozitním
 > *(5) Pokud správce daně místně příslušný podle místa určení vybraných výrobků obdrží prostřednictvím elektronického systému zjednodušený elektronický průvodní doklad, doručí ho prostřednictvím elektronického systému evidovanému příjemci.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Afs 252/2023 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718020) — 24. 1. 2024
+  > „Dále soud poukázal na úmysl evropského normotvůrce (a zákonodárce), aby zjednodušený průvodní doklad byl přepravován společně se zásilkou, a to v jakémkoli okamžiku průběhu přepravy. Tento doklad totiž slouží k individualizaci jinak jen druhově (genericky) určeného zboží (na specifika vybraných výrobků ve smyslu ZSD, které jsou určeny druhově, upozornil již rozsudek Nejvyššího správního soudu ze dne 20. 8. 2009, č. j. 1 Afs 81/2009 68)"
 
 #### Zjednodušený elektronický průvodní doklad — základní postup
 

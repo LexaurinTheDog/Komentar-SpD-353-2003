@@ -807,6 +807,13 @@ Správce daně je oprávněn odebírat vzorky k analýze (§ 80 odst. 3 DŘ a zv
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 31/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-31-08_2) — nález, 12. 12. 2012
+  > „Je evidentní, že propadnutí dopravního prostředku ve vlastnictví třetí osoby má především sankční charakter a ve vztahu k zajištění úhrady případného daňového nedoplatku je nelze ústavně konformně vyslovit bez toho, že by bylo zjištěno zavinění vlastníka dopravního prostředku směřující ke spáchání daňového deliktu. Opačný výklad by popíral i obecnou právní zásadu nullum crimen sine lege, kterou lze analogicky vztáhnout i na věc souzenou před navrhovatelem"
+- *NSS* [65 Af 74/2016 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/520167) — 16. 5. 2017
+  > „v řízení o zajištění, propadnutí a zabrání vybraných výrobků a dopravních prostředků (§ 42 zákona č. 353/2003 Sb., o spotřebních daních) neplatí rozložení důkazního břemene mezi účastníka řízení a správní orgán, ve smyslu § 31 odst. 8 a 9 zákona č. 337/1992 Sb., o správě daní a poplatků. Prokázání existence podmínek pro postup dle § 42 zákona o spotřebních daních je tak primárně věcí celních orgánů"
+
 #### Zadržení jako opatřením při správě spotřebních daní
 
 Zadržení je preventivní opatření: správce daně fyzicky zajistí výrobek, dokud se neobjasní jeho daňový status. Nejde o sankci — jde o zajišťovací procesní úkon. Právní základ pro průběh zadržení je zákon o Celní správě ČR (č. 17/2012 Sb.) — SpD tedy nereguluje průběh zadržení procesně, ale vymezuje podmínky, za nichž správce daně zadržení *musí* provést.
@@ -904,6 +911,11 @@ Správce daně může z moci úřední oddělit určitou zadrženou věc (typick
 > *(3) Nerozhodne-li správce daně o propadnutí nebo zabrání zadrženého vybraného výrobku, rozhodne o jeho vrácení. Tento vybraný výrobek vrátí postupem podle zákona upravujícího Celní správu České republiky.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 Af 4/2016 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/452102) — 19. 9. 2018
+  > „při rozhodování správce daně o propadnutí vybraných výrobků podle § 42d zákona č. 353/2003 Sb., o spotřebních daních, účinného od 1. 5. 2011, nemá správce daně správní uvážení. […] celní orgán žádný prostor pro správní uvážení nemá. Zákonodárce výslovně zakotvil režim zmírňujícího správního uvážení pouze pro případ propadnutí dopravního prostředku, jímž byly vybrané výrobky dopravovány, a to v § 42c odst. 2 téhož zákona ve znění účinném od 1. 5. 2011"
 
 #### Propadnutí vs. zabrání — rozlišení dle znalosti vlastníka
 
@@ -1047,6 +1059,13 @@ Tím zákon zajišťuje, že náklady zadržovacího a sankčního řízení nen
 > *Použije-li správce daně zajištění daně na úhradu daně, uloží provozovateli daňového skladu, oprávněnému příjemci podle § 22, oprávněnému odesílateli nebo uživateli pokutu ve výši 10 % z částky zajištění daně použité na úhradu daně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 3/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-3-13_1) — nález, 15. 10. 2013
+  > „Pokuta ve výši 10 % z částky zajištění daně použité na úhradu daně je sankčním nástrojem obdobného charakteru jako pokuta za opožděné tvrzení daně podle § 250 daňového řádu či úrok z prodlení podle § 252 a násl. daňového řádu. „Protiprávní“ jednání, které předchází jejímu uložení, je stejné jako v případě vzniku povinnosti platit úrok z prodlení, a to neuhrazení splatné daně ve lhůtě její splatnosti. Jedná se tedy o jednání, které není společensky nebezpečné, avšak ohrožuje fiskální zájmy státu"
+- *ÚS* [Pl.ÚS 24/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-14_1) — nález, 30. 6. 2015
+  > „napadená právní norma požadavek diferenciace sankcí respektuje již tím, že uložená pokuta je závislá na výši nedoplatku ke spotřební dani. Z tohoto pohledu lze ohledně výše předmětné sankce konstatovat, že ve svém důsledku odráží objem finančních prostředků pohybujících se v obchodu s minerálními oleji, lihem, pivem, vínem […]"
 
 #### Automatická pokuta za čerpání zajištění
 

@@ -89,6 +89,13 @@ Zákon výslovně ukládá navrhovateli, aby v návrhu uvedl **údaje potřebné
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Afs 104/2018 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/650229) — 17. 4. 2019
+  > „Za závažné porušení nelze označit každé porušení daných předpisů, ale pouze porušení, které dosáhne takové intenzity, že jej příslušný správní orgán shledá za významně ohrožující nebo porušující účel právní úpravy povolovacího řízení, jímž je zejména řádný výkon správy spotřební daně a zamezení činnosti osob, které neposkytují dostatečné záruky pro tento řádný výkon. … posouzení, zda došlo k závažnému porušení předpisů, musí učinit příslušný celní úřad jakožto správce spotřební daně s tím, že je povinen opatřit si všechny relevantní podklady"
+- *NSS* [22 Af 151/2017 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/450453) — 11. 9. 2018
+  > „Závěr odpovídá i smyslu zákona; není žádný důvod pro zrušení povolení u daňového subjektu nevykazujícího žádné riziko nesplnění platebních povinností, pokud správce zjistí, že kdysi toto riziko vykazoval. … daňový subjekt [má] neplnění podmínky ekonomické stability (a dalších podmínek pro povolení) možnost napravit ve stanovené lhůtě tak, aby je aktuálně – tedy v posuzované době - splňoval"
+
 #### Taxativní pětice podmínek (odst. 1)
 
 § 43c odst. 1 stanoví **taxativní výčet** pěti věcných podmínek pro vydání povolení. Splnění všech pěti je kumulativní — absence jakékoli jediné podmínky vede k zamítnutí návrhu (§ 43i odst. 1, věta druhá). Zákon neponechává správci daně prostor pro správní uvážení ohledně toho, zda podmínku prominout nebo jinak nahradit.
@@ -462,6 +469,15 @@ Po zrušení povolení na žádost nastupují povinnosti § 43p (inventura záso
 > *- b) dnem, ve kterém je ukončeno řízení o zrušení povolení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 153/2023 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720515) — 16. 4. 2024
+  > „Podle NSS nelze předmět řízení o zrušení povolení k provozování daňového skladu zúžit pouze na zákonem stanovený nepříznivý následek (zrušení povolení), který by bylo možné v průběhu řízení podporovat různými libovolně zaměnitelnými důvody. … Tomuto závěru ostatně nasvědčuje i zákonná konstrukce výzvy podle § 43m odst. 1 zákona o spotřebních daních, k níž je zpravidla správce daně povinen přistoupit. Z podstaty věci vyplývá, že tato výzva musí mimo jiné obsahovat právě předběžný závěr správce daně o naplnění konkrétního zákonného důvodu ke zrušení povolení"
+- *NSS* [62 Af 47/2016 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/464256) — 22. 2. 2018
+  > „Zákon tak rozlišuje dvě skupiny podmínek, jejichž nesplnění je důvodem pro zrušení povolení, a to 1) podmínky pro vydání povolení a 2) podmínky potřebné pro správu daní stanovené v povolení. Jak vyplývá z § 43m odst. 3 zákona o spotřebních daních, vztahuje se tento odstavec toliko na podmínky potřebné pro správu daní stanovené v povolení, tj. podmínky stanovené nad rámec podmínek explicitně vymezených v zákoně"
+- *NSS* [22 Af 151/2017 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/450453) — 11. 9. 2018
+  > „výzva podle § 43m odst. 1 zákona o spotřebních daních plní jinou funkci, než periodická oznamovací povinnost daňového subjektu; na základě sdělených údajů v rámci oznamovací povinnosti daňového subjektu nebo údajů zjištěných vlastní činností správce daně nejprve učiní závěr o splnění podmínky ekonomické stability a teprve v případě, že shledá daňový subjekt ekonomicky nestabilní, jej vyzve k splnění této podmínky postupem podle § 43m odst. 1 zákona o spotřebních daních"
 
 #### Struktura řízení o zrušení z moci úřední
 

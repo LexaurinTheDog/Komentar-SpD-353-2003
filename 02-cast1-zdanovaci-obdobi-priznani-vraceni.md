@@ -280,6 +280,11 @@ Srov. § 9 odst. 3 písm. a) a § 9 odst. 3 písm. b) SpD — z těchto ustanove
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 216/2020 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656622) — 29. 10. 2020
+  > „Podmínkou pro uplatnění nároku na vrácení spotřební daně ve smyslu § 14 odst. 1 písm. b) zákona o spotřebních daních je mimo jiné skutečnost, že kupující (popřípadě jiný odběratel) vrátí plátci daně zboží z důvodu vypořádání nároků z vad takového zboží, popřípadě je zboží plátci daně vráceno proto, že jej kupující vůbec nepřevzal. … Dokud totiž nebylo zboží předáno kupujícímu či minimálně připraveno k převzetí kupujícím, nepřichází vůbec nárok na vrácení daně ve smyslu § 14 odst. 1 písm. b) zákona o spotřebních daních v úvahu"
+
 #### Systematika vracení daně plátci — tři tituly
 
 § 14 rozlišuje tři základní tituly pro vznik nároku na vrácení daně u plátce:

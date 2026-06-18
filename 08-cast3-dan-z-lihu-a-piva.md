@@ -219,6 +219,13 @@ Překročení limitu 30 l etanolu: ta část produkce, která přesahuje 30 l et
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 75/2023 - 197](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747809) — 11. 12. 2025
+  > „Cílem, který osvobození stanovená směrnicí 92/83/EHS sledují, je zejména vyloučit dopad spotřebních daní u alkoholu jako meziproduktu, který je obsažen v jiných spotřebních nebo průmyslových výrobcích (rozsudky Repertoire Culinaire, bod 48, Quadrant, bod 47). … Osvobození od daně upravené v tomto ustanovení členským státem závisí na konečném užití lihu (rozsudek Quadrant, bod 44, rozsudek Repertoire Culinaire, bod 49)"
+- *NSS* [9 Afs 17/2011 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/622399) — 14. 9. 2011
+  > „Pokud by se tedy vycházelo z účelu zákona, kterým je kromě hlavního cíle výběru spotřební daně znemožnit použití denaturovaného lihu jinak než průmyslově, nebylo možno dojít k závěru, že líh zdenaturován nebyl"
+
 #### Systematika osvobození
 
 § 71 implementuje povinná osvobození vyplývající z čl. 27 směrnice 92/83/EHS, která členské státy zavazuje osvobodit líh použitý v taxativně vymezených případech. Osvobození lze rozdělit do tří skupin:
@@ -662,6 +669,11 @@ Ballingův vzorec (velký Ballingův vzorec) je matematická rovnice sloužící
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 68/2020 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709317) — 9. 2. 2023
+  > „Požadavek tuzemské právní úpravy tudíž nelze považovat za diskriminační ani samoúčelný. Do zákona byl včleněn s úmyslem podpořit sníženou sazbou daně pouze tradiční malé pivovary, nezávislé hospodářsky a technologicky na jiném pivovaru. … cílem kritéria nezávislosti je zajistit, aby z této snížené daňové sazby měly prospěch skutečně pivovary, pro které velikost představuje znevýhodnění, a nikoliv pivovary, které náleží k určité skupině"
+
 #### Malý nezávislý pivovar — čtyři kumulativní podmínky
 
 § 82 obsahuje nejrozvinutější definici v rámci celé Hlavy III. Malý nezávislý pivovar (dále „MNP") musí splňovat čtyři podmínky současně (odst. 1):
@@ -708,6 +720,11 @@ Odst. 8 zakotvuje výjimečnou fikci: i vzájemně právně nebo hospodářsky z
 > *(2) Pokud je pivo určeno pro přímou spotřebu v prostorách pivovaru nebo místech k němu přilehlých, musí být z pivovaru dopravováno do místa přímé spotřeby pouze v přepravních nebo spotřebitelských obalech. Pokud je pivo do místa přímé spotřeby dopravováno přímo z výčepního tanku, je správce daně oprávněn stanovit další podmínky pro vedení evidence.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Afs 110/2018 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654647) — 15. 5. 2020
+  > „Například podle § 83 odst. 2 zákona č. 353/2003 Sb., o spotřebních daních, pokud je pivo určeno pro přímou spotřebu v prostorách pivovaru nebo místech k němu přilehlých, musí být z daňového skladu podle § 19 odst. 2 písm. a) dopravováno do místa přímé spotřeby pouze v přepravních nebo spotřebitelských obalech. … smysl užití pojmu „přímá (osobní) spotřeba“ je zřejmý a odpovídá i obecnému jazykovému chápání: jedná se o situaci, kdy daný produkt konzumuje přímo sám výrobce, čili nekonzumuje jej „zprostředkovaně“ jiná osoba"
 
 #### Retrospektivní vznik povinnosti při porušení podmínek domácí výroby
 
@@ -756,6 +773,11 @@ Základ daně z piva je objemová veličina — **množství piva v hektolitrech
 > *- b) pokud na dokladu, se kterým byla uskutečňována doprava z jiného členského státu, byla uvedena skutečnost, že pivo bylo vyrobeno takovou osobou, a byly splněny podmínky samoosvědčení podle prováděcího nařízení Komise, kterým se stanoví pravidla, pokud jde o certifikaci a samoosvědčení malých nezávislých výrobců alkoholických nápojů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 68/2020 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709317) — 9. 2. 2023
+  > „směrnice 92/83 chce vyloučit, že výhoda z takového snížení daňové sazby bude přiznána pivovarům, jejichž velikost a výrobní kapacita by mohly stát na počátku narušení vnitřního trhu. Za těchto podmínek je cílem kritérií právní a hospodářské nezávislosti, stanovených v čl. 4 odst. 2 této směrnice, zajištění toho, aby jakákoli forma hospodářské a právní závislosti mezi pivovary vedla k vyloučení daňového zvýhodnění, které představuje snížená sazba daně z piva"
 
 #### Sazby daně z piva — strukturovaný systém
 

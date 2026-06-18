@@ -268,6 +268,11 @@ Odst. 5 a 6 zajišťují, že pohyb vybraných výrobků ze třetích území uv
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 259/2017 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646099) — 29. 3. 2018
+  > „Stěžovatelka byla držitelkou povolení k provozování daňového skladu, což jí umožňovalo využívat režim podmíněného osvobození od daně, což pro ni představovalo konkurenční výhodu oproti jiným subjektům bez obdobného povolení. S touto výhodou se však pojí celá řada povinností, na jejichž dodržování je třeba právě s ohledem na charakter režimu podmíněného osvobození od daně bezpodmínečně trvat (např. povinnost vedení evidencí, udržování dostatečného zajištění daně, dodržování zákonných p…)"
+
 #### Systémový základ pojmového aparátu
 
 § 3 zavádí rozsáhlou soustavu **26 legislativních zkratek** (písm. a) až z) odst. 1 a dalších 7 v odst. 2), které prostupují celým zákonem. Bez jejich pochopení nelze správně aplikovat žádné hmotněprávní ani procesní ustanovení. Níže jsou komentovány nejdůležitější pojmy.
@@ -472,6 +477,13 @@ Odst. 6 řeší zbývající situace: není-li pro daný výrobek ani unijní pr
 > *(7) Nelze-li u plátce podle odstavce 1 písm. g) určit místní příslušnost správce daně podle daňového řádu, je místně příslušným správce daně, který vůči tomuto plátci jako první učinil úkon zahajující řízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Afs 331/2023 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736621) — 19. 11. 2024
+  > „Pojem skladování vybraných výrobků uvedený v § 4 odst. 1 písm. f) zákona o spotřebních daních má být ve vztahu k vybraným výrobkům vykládán ve smyslu detence. Podstatou detence je faktické ovládání věci, u něhož však, na rozdíl od držby, chybí vůle nakládat s věcí jako s vlastní, ale naopak detentor s věcí nakládá jako s cizí"
+- *NSS* [11 Af 33/2021 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705785) — 1. 11. 2022
+  > „Podle § 4 odst. 1 písm. f) ZSD plátcem je právnická nebo fyzická osoba, která skladuje nebo dopravuje vybrané výrobky, aniž prokáže, že se jedná o vybrané výrobky pro osobní spotřebu, … za daň společně a nerozdílně odpovídá také právnická nebo fyzická osoba, která se na uvedeném skladování nebo dopravě podílela. … Svého postavení plátce by se stěžovatelka mohla zprostit pouze tehdy, pokud by skutečně a bezrozporně prokázala, že dopravu vybraných výrobků prováděl třetí subjekt, k čemuž nedala souhlas…"
 
 #### Extenzivní vymezení plátce — smysl a funkce
 
@@ -711,6 +723,11 @@ Zákon tak konstruuje dvoustupňový mechanismus:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [64 Af 12/2019 - 87](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/433897) — 4. 9. 2019
+  > „Dle § 6 a § 8 zákona č. 353/2003 Sb., o spotřebních daních … vzniká daňová povinnost výrobou vybraných výrobků na daňovém území Evropské unie nebo dovozem vybraných výrobků na daňové území Evropské unie … neboť uvedeného dne ve smyslu § 8 ZSD vznikla pouze primární daňová povinnost. Ve smyslu § 148 odst. 1 daňového řádu počne lhůta pro stanovení daně totiž běžet dnem, v němž uplynula lhůta pro podání řádného daňového tvrzení…"
+
 #### Dvoustupňová konstrukce daňové povinnosti ve spotřebních daních
 
 § 8 zakládá vznik **daňové povinnosti** (Steuerentstehung, tax liability). Jde o první stupeň dvoustupňového mechanismu, charakteristického pro spotřební daně harmonizované právem EU:
@@ -765,6 +782,11 @@ Daňová povinnost vzniká ex lege okamžikem naplnění kteroukoli z těchto sk
 > *(4) Povinnost daň přiznat a zaplatit vzniká také dnem pozbytí nebo dnem propachtování obchodního závodu nebo jeho části tvořící samostatnou organizační složku, ke kterým náleží nezdaněné vybrané výrobky nacházející se mimo režim podmíněného osvobození od daně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 80/2018 - 93](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/409557) — 5. 11. 2020
+  > „Rozhodný okamžik skladování, kdy skladovateli jako plátci vzniká povinnost daň přiznat a zaplatit, je třeba posoudit podle § 9 odst. 3 písm. e) zákona č. 353/2003 Sb., podle něhož povinnost daň přiznat a zaplatit vzniká také dnem nabytí vybraných výrobků nebo dnem jejich prodeje plátci uvedenými v § 4 odst. 1 písm. f) nebo dnem zjištění, že plátce vybrané výrobky po nějakou dobu držel, nebo že je drží, a to tím dnem, který nastal dříve"
 
 #### Základní pravidlo — volný daňový oběh na území ČR (odst. 1)
 
